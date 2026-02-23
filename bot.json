@@ -1,0 +1,482 @@
+
+{
+  "softwareDevelopment": [
+    {
+      "job_title": "Software Engineer",
+      "description": "Design, develop, and maintain software applications and systems.",
+      "key_skills": "Java, Python, C++, problem-solving, algorithms, debugging",
+      "fresher_salary_usd": "$65,000 - $85,000",
+      "professional_salary_usd": "$100,000 - $180,000",
+      "career_growth": "Excellent - High demand across all industries.",
+      "education_details": "Bachelor's or Master's in Computer Science, Software Engineering, or related field."
+    },
+    {
+      "job_title": "Full-Stack Developer",
+      "description": "Work on both front-end and back-end development of web applications.",
+      "key_skills": "JavaScript, HTML/CSS, React/Angular, Node.js, databases, API integration",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$90,000 - $150,000",
+      "career_growth": "Very Good - Versatile skill set in high demand.",
+      "education_details": "Bachelor's in Computer Science; Master's optional."
+    },
+    {
+      "job_title": "Front-End Developer",
+      "description": "Create user interfaces and user experiences for web applications.",
+      "key_skills": "HTML, CSS, JavaScript, React/Vue/Angular, responsive design, UX principles",
+      "fresher_salary_usd": "$45,000 - $65,000",
+      "professional_salary_usd": "$75,000 - $130,000",
+      "career_growth": "Good - Growing with mobile-first development.",
+      "education_details": "Bachelor's in Computer Science or Web Development."
+    },
+    {
+      "job_title": "Back-End Developer",
+      "description": "Build server-side logic, databases, and APIs that power applications.",
+      "key_skills": "Server languages (Python, Java, Node.js), databases, cloud services, APIs",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$85,000 - $145,000",
+      "career_growth": "Very Good - Critical for all web applications.",
+      "education_details": "Bachelor's in Computer Science or related field."
+    },
+    {
+      "job_title": "Mobile App Developer",
+      "description": "Create applications for mobile devices (iOS, Android).",
+      "key_skills": "Swift/Kotlin, React Native/Flutter, mobile UI/UX, app store guidelines",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$80,000 - $140,000",
+      "career_growth": "Excellent - Mobile usage continues growing.",
+      "education_details": "Bachelor's in Software Engineering, CS, or IT."
+    },
+    {
+      "job_title": "iOS Developer",
+      "description": "Develop applications specifically for Apple's iOS platform.",
+      "key_skills": "Swift, Objective-C, Xcode, iOS SDK, App Store guidelines",
+      "fresher_salary_usd": "$60,000 - $80,000",
+      "professional_salary_usd": "$90,000 - $155,000",
+      "career_growth": "Very Good - Premium market with loyal users.",
+      "education_details": "Bachelor's in Computer Science or Software Engineering."
+    },
+    {
+      "job_title": "Android Developer",
+      "description": "Create applications for the Android mobile platform.",
+      "key_skills": "Kotlin, Java, Android Studio, Google Play guidelines, Material Design",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$85,000 - $145,000",
+      "career_growth": "Very Good - Largest mobile platform globally.",
+      "education_details": "Bachelor's in Computer Science, IT, or related field."
+    },
+    {
+      "job_title": "Web Developer",
+      "description": "Build and maintain websites and web applications.",
+      "key_skills": "HTML, CSS, JavaScript, frameworks, CMS platforms, responsive design",
+      "fresher_salary_usd": "$40,000 - $55,000",
+      "professional_salary_usd": "$65,000 - $110,000",
+      "career_growth": "Good - Steady demand for web presence.",
+      "education_details": "Bachelor's in Web Design/Development, CS, or related field."
+    },
+    {
+      "job_title": "Software Architect",
+      "description": "Design high-level software system architecture and technical standards.",
+      "key_skills": "System design, multiple programming languages, architecture patterns, leadership",
+      "fresher_salary_usd": "N/A (Senior Role)",
+      "professional_salary_usd": "$130,000 - $220,000",
+      "career_growth": "Excellent - Senior role with high responsibility.",
+      "education_details": "Bachelor's in CS; Master's preferred for senior roles."
+    },
+    {
+      "job_title": "DevOps Engineer",
+      "description": "Bridge development and operations through automation and CI/CD.",
+      "key_skills": "Docker, Kubernetes, AWS/Azure, Jenkins, scripting, monitoring tools",
+      "fresher_salary_usd": "$65,000 - $90,000",
+      "professional_salary_usd": "$100,000 - $170,000",
+      "career_growth": "Excellent - Critical for modern software delivery.",
+      "education_details": "Bachelor's in CS or IT; DevOps Certifications useful."
+    }
+  ],
+  "dataAnalytics": [
+    {
+      "job_title": "Data Scientist",
+      "description": "Extract insights from data using statistical analysis and machine learning.",
+      "key_skills": "Python/R, statistics, machine learning, SQL, data visualization",
+      "fresher_salary_usd": "$75,000 - $95,000",
+      "professional_salary_usd": "$110,000 - $190,000",
+      "career_growth": "Excellent - High demand across all industries.",
+      "education_details": "Master's or PhD in Data Science, Statistics, or Computer Science."
+    },
+    {
+      "job_title": "Data Analyst",
+      "description": "Analyze data to provide business insights and support decision-making.",
+      "key_skills": "SQL, Excel, Python/R, Tableau/Power BI, statistics, business acumen",
+      "fresher_salary_usd": "$45,000 - $60,000",
+      "professional_salary_usd": "$70,000 - $110,000",
+      "career_growth": "Very Good - Growing need for data-driven decisions.",
+      "education_details": "Bachelor's in Statistics, Math, Economics, or CS."
+    },
+    {
+      "job_title": "Data Engineer",
+      "description": "Build and maintain data pipelines and infrastructure.",
+      "key_skills": "Python/Scala, SQL, Spark, Hadoop, cloud platforms, ETL tools",
+      "fresher_salary_usd": "$65,000 - $85,000",
+      "professional_salary_usd": "$100,000 - $165,000",
+      "career_growth": "Excellent - Critical for big data initiatives.",
+      "education_details": "Bachelor's in CS, IT, or Data Engineering."
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "description": "Deploy and maintain machine learning models in production.",
+      "key_skills": "Python, machine learning frameworks, cloud platforms, MLOps, statistics",
+      "fresher_salary_usd": "$85,000 - $110,000",
+      "professional_salary_usd": "$130,000 - $200,000",
+      "career_growth": "Excellent - AI adoption driving demand.",
+      "education_details": "Master's in Machine Learning, AI, or CS."
+    },
+    {
+      "job_title": "AI Engineer",
+      "description": "Develop artificial intelligence applications and systems.",
+      "key_skills": "Deep learning, neural networks, Python, TensorFlow/PyTorch, NLP",
+      "fresher_salary_usd": "$95,000 - $120,000",
+      "professional_salary_usd": "$140,000 - $220,000",
+      "career_growth": "Excellent - Cutting-edge field with high growth.",
+      "education_details": "Master's in AI, Machine Learning, or Computer Science."
+    },
+    {
+  
+  "job_title": "Business Intelligence Analyst",
+  "description": "Create reports and dashboards to support business decisions",
+  "key_skills": "SQL, BI tools (Tableau, Power BI), data modeling, business knowledge",
+  
+  "fresher_salary_usd": "$50,000 - $70,000",
+  "professional_salary_usd": "$80,000 - $125,000",
+  "career_growth": "Good - Steady demand for business insights",
+  "education_details": "Bachelor's in Business Analytics, CS, or Statistics"
+},
+
+ 
+{
+  "job_title": "Big Data Engineer",
+  "description": "Handle large-scale data processing and storage systems",
+  "key_skills": "Hadoop, Spark, NoSQL databases, cloud platforms, distributed systems",
+  
+  "fresher_salary_usd": "$70,000 - $90,000",
+  "professional_salary_usd": "$105,000 - $170,000",
+  "career_growth": "Very Good - Big data continues to grow",
+  "education_details": "Bachelor's or Master's in CS, Data Engineering"
+},
+{
+
+  "job_title": "Analytics Manager",
+  "description": "Lead analytics teams and strategy for data-driven insights",
+  "key_skills": "Leadership, analytics tools, project management, business strategy",
+    
+  "fresher_salary_usd": "N/A (Management Role)",
+  "professional_salary_usd": "$110,000 - $180,000",
+  "career_growth": "Good - Management track in growing field",
+  "education_details": "Bachelor's in Analytics or related + MBA preferred"
+},
+{
+
+  "job_title": "Quantitative Analyst",
+  "description": "Apply mathematical models to financial or business problems",
+  "key_skills": "Mathematics, statistics, programming, financial modeling, risk analysis",
+  
+  "fresher_salary_usd": "$70,000 - $100,000",
+  "professional_salary_usd": "$120,000 - $200,000",
+  "career_growth": "Good - Strong in finance and tech sectors",
+  "education_details": "Master's or PhD in Mathematics, Statistics, or Finance"
+},
+{
+
+  "job_title": "Research Scientist",
+  "description": "Conduct research in AI, ML, or other technical domains",
+  "key_skills": "PhD-level expertise, research methodology, programming, publications",
+  
+  "fresher_salary_usd": "$100,000 - $130,000",
+  "professional_salary_usd": "$150,000 - $250,000",
+  "career_growth": "Good - Academic and industry research roles",
+  "education_details": "PhD in AI, Computer Science, or related research field"
+}
+  ],
+
+
+
+  "securityInfrastructure": [
+    {
+      "job_title": "Cybersecurity Analyst",
+      "description": "Protect systems and networks from cyber threats and attacks.",
+      "key_skills": "Network security, firewalls, encryption, risk assessment, incident response",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$90,000 - $150,000",
+      "career_growth": "Excellent - Rising importance of cybersecurity.",
+      "education_details": "Bachelor's in Cybersecurity, Computer Science, or IT."
+    },
+    {
+      "job_title": "Information Security Manager",
+      "description": "Oversee the organization's information security strategy and systems.",
+      "key_skills": "Risk management, security frameworks, leadership, compliance",
+      "fresher_salary_usd": "$75,000 - $100,000",
+      "professional_salary_usd": "$120,000 - $200,000",
+      "career_growth": "Excellent - High demand for senior roles.",
+      "education_details": "Bachelor's in Information Security, CS, or related field."
+    },
+    {
+      "job_title": "Penetration Tester",
+      "description": "Test and identify vulnerabilities in systems and networks.",
+      "key_skills": "Ethical hacking, vulnerability scanning, penetration testing tools, Linux",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$90,000 - $140,000",
+      "career_growth": "Good - Essential for proactive cybersecurity.",
+      "education_details": "Bachelor's in Cybersecurity or related field."
+    },
+    {
+      "job_title": "Security Engineer",
+      "description": "Design and implement security systems to protect infrastructure.",
+      "key_skills": "Firewalls, intrusion detection systems, secure coding, network protocols",
+      "fresher_salary_usd": "$60,000 - $85,000",
+      "professional_salary_usd": "$100,000 - $160,000",
+      "career_growth": "Good - Critical for protecting enterprise systems.",
+      "education_details": "Bachelor's in Computer Science, IT, or related field."
+    },
+    {
+      "job_title": "Cloud Engineer",
+      "description": "Design and manage cloud-based systems and infrastructure.",
+      "key_skills": "AWS, Azure, GCP, cloud architecture, automation, security",
+      "fresher_salary_usd": "$60,000 - $80,000",
+      "professional_salary_usd": "$100,000 - $160,000",
+      "career_growth": "Excellent - Cloud computing is expanding rapidly.",
+      "education_details": "Bachelor's in Computer Science or IT."
+    },
+    {
+      "job_title": "Cloud Architect",
+      "description": "Design and manage the cloud computing strategy and infrastructure.",
+      "key_skills": "Cloud architecture, AWS/Azure/GCP, DevOps, security, cost optimization",
+      "fresher_salary_usd": "N/A (Senior Role)",
+      "professional_salary_usd": "$130,000 - $220,000",
+      "career_growth": "Excellent - Growing demand for cloud expertise.",
+      "education_details": "Bachelor's in CS; Master's preferred for senior roles."
+    },
+    {
+      "job_title": "Systems Administrator",
+      "description": "Maintain and configure computer systems and networks for organizations.",
+      "key_skills": "Linux/Windows administration, networking, scripting, cloud management",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$85,000 - $130,000",
+      "career_growth": "Good - Essential role in IT infrastructure.",
+      "education_details": "Bachelor's in Computer Science, IT, or related field."
+    },
+    {
+      "job_title": "Network Engineer",
+      "description": "Design, implement, and maintain network systems and infrastructure.",
+      "key_skills": "Routing, switching, VPN, firewalls, network protocols, Cisco/Juniper",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$90,000 - $140,000",
+      "career_growth": "Good - Networking is essential for business operations.",
+      "education_details": "Bachelor's in Computer Science or Network Engineering."
+    },
+    {
+      "job_title": "Site Reliability Engineer (SRE)",
+      "description": "Ensure reliability and scalability of systems by automating tasks and monitoring.",
+      "key_skills": "Linux, cloud platforms, automation, monitoring, scripting, DevOps",
+      "fresher_salary_usd": "$75,000 - $95,000",
+      "professional_salary_usd": "$110,000 - $180,000",
+      "career_growth": "Excellent - High demand in tech-heavy organizations.",
+      "education_details": "Bachelor's in Computer Science or IT."
+    },
+    {
+      "job_title": "Infrastructure Engineer",
+      "description": "Design and maintain the underlying infrastructure that supports applications and services.",
+      "key_skills": "Networking, cloud, storage systems, virtualization, automation",
+      "fresher_salary_usd": "$60,000 - $80,000",
+      "professional_salary_usd": "$100,000 - $160,000",
+      "career_growth": "Good - Crucial for maintaining IT infrastructure.",
+      "education_details": "Bachelor's in IT, Computer Science, or related field."
+    }
+  ],
+  "productDesign": [
+    {
+      "job_title": "Product Manager",
+      "description": "Lead product development by defining product vision, strategy, and roadmaps.",
+      "key_skills": "Product strategy, market analysis, cross-functional leadership, project management",
+      "fresher_salary_usd": "$70,000 - $90,000",
+      "professional_salary_usd": "$120,000 - $180,000",
+      "career_growth": "Excellent - High demand in tech and consumer product industries.",
+      "education_details": "Bachelor's in Business, Marketing, or related field."
+    },
+    {
+      "job_title": "Technical Product Manager",
+      "description": "Manage product development with a focus on technical aspects and requirements.",
+      "key_skills": "Technical knowledge, product roadmaps, cross-functional leadership, Agile",
+      "fresher_salary_usd": "$80,000 - $100,000",
+      "professional_salary_usd": "$130,000 - $200,000",
+      "career_growth": "Excellent - Growing demand in technical industries.",
+      "education_details": "Bachelor's in CS, Engineering, or related field."
+    },
+    {
+      "job_title": "UX Designer",
+      "description": "Focus on improving the usability and user experience of digital products.",
+      "key_skills": "User research, wireframing, prototyping, user testing, design tools (Sketch, Figma)",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$80,000 - $120,000",
+      "career_growth": "Good - Increasing need for user-centered design.",
+      "education_details": "Bachelor's in UX Design, HCI, or related field."
+    },
+    {
+      "job_title": "UI Designer",
+      "description": "Design the visual layout and interactive elements of digital products.",
+      "key_skills": "Visual design, typography, design tools (Adobe XD, Figma), responsive design",
+      "fresher_salary_usd": "$45,000 - $65,000",
+      "professional_salary_usd": "$70,000 - $110,000",
+      "career_growth": "Good - Focus on user interface design is growing.",
+      "education_details": "Bachelor's in Graphic Design, UI Design, or related field."
+    },
+    {
+      "job_title": "UX/UI Designer",
+      "description": "Combine both UX and UI skills to create user-centered digital designs.",
+      "key_skills": "Wireframing, prototyping, visual design, user research, tools (Sketch, Figma)",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$90,000 - $140,000",
+      "career_growth": "Excellent - Strong demand for versatile design skills.",
+      "education_details": "Bachelor's in Design, UX/UI, or related field."
+    },
+    {
+      "job_title": "Product Designer",
+      "description": "Design and prototype user-friendly products with a focus on functionality and aesthetics.",
+      "key_skills": "Product design, prototyping, user testing, design thinking, collaboration",
+      "fresher_salary_usd": "$60,000 - $80,000",
+      "professional_salary_usd": "$100,000 - $150,000",
+      "career_growth": "Excellent - Increasing need for well-rounded design professionals.",
+      "education_details": "Bachelor's in Product Design, Industrial Design, or related field."
+    },
+    {
+      "job_title": "Interaction Designer",
+      "description": "Design interactive systems and improve how users interact with technology.",
+      "key_skills": "Interaction design, user flows, prototyping, design thinking",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$80,000 - $120,000",
+      "career_growth": "Good - Focus on user interactions in product development.",
+      "education_details": "Bachelor's in Interaction Design, HCI, or related field."
+    },
+    {
+      "job_title": "Design Researcher",
+      "description": "Conduct research to understand user needs and behaviors to guide design decisions.",
+      "key_skills": "User research, usability testing, surveys, data analysis, design thinking",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$85,000 - $130,000",
+      "career_growth": "Good - Key for informing design decisions based on user insights.",
+      "education_details": "Bachelor's in Design, Research, HCI, or related field."
+    },
+    {
+      "job_title": "Creative Director",
+      "description": "Lead the creative vision and oversee design teams for various projects.",
+      "key_skills": "Leadership, creative strategy, branding, project management, design tools",
+      "fresher_salary_usd": "N/A (Senior Role)",
+      "professional_salary_usd": "$120,000 - $200,000",
+      "career_growth": "Excellent - Senior role with high leadership responsibility.",
+      "education_details": "Bachelor's in Design, Fine Arts, or related field."
+    },
+    {
+      "job_title": "Design Systems Engineer",
+      "description": "Create and maintain design systems and ensure consistency in design elements.",
+      "key_skills": "Design systems, front-end development, UI guidelines, component libraries",
+      "fresher_salary_usd": "$70,000 - $90,000",
+      "professional_salary_usd": "$110,000 - $160,000",
+      "career_growth": "Good - Increasing demand for design consistency.",
+      "education_details": "Bachelor's in Design, Computer Science, or related field."
+    }
+  ],
+  "specializedTechRoles": [
+    {
+      "job_title": "Quality Assurance (QA) Engineer",
+      "description": "Test and ensure software products meet quality standards.",
+      "key_skills": "Testing frameworks, bug tracking, automation, programming skills (Selenium, JUnit)",
+      "fresher_salary_usd": "$45,000 - $65,000",
+      "professional_salary_usd": "$70,000 - $110,000",
+      "career_growth": "Good - Essential for delivering bug-free products.",
+      "education_details": "Bachelor's in Computer Science, IT, or related field."
+    },
+    {
+      "job_title": "Test Automation Engineer",
+      "description": "Automate testing processes to improve efficiency and reliability of software testing.",
+      "key_skills": "Automation tools (Selenium, TestNG), programming, continuous integration",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$85,000 - $130,000",
+      "career_growth": "Good - Increasing importance in agile environments.",
+      "education_details": "Bachelor's in CS or related field."
+    },
+    {
+      "job_title": "Blockchain Developer",
+      "description": "Develop and implement blockchain-based solutions for decentralized applications.",
+      "key_skills": "Blockchain technologies, Solidity, Ethereum, smart contracts, cryptography",
+      "fresher_salary_usd": "$70,000 - $90,000",
+      "professional_salary_usd": "$120,000 - $180,000",
+      "career_growth": "Excellent - Rapidly growing field with many opportunities.",
+      "education_details": "Bachelor's in Computer Science, Engineering, or related field."
+    },
+    {
+      "job_title": "Game Developer",
+      "description": "Develop interactive video games for various platforms.",
+      "key_skills": "C++, Unity, Unreal Engine, game design, 3D modeling, scripting",
+      "fresher_salary_usd": "$50,000 - $70,000",
+      "professional_salary_usd": "$90,000 - $150,000",
+      "career_growth": "Good - Gaming industry continues to expand.",
+      "education_details": "Bachelor's in Game Development, Computer Science, or related field."
+    },
+    {
+      "job_title": "AR/VR Developer",
+      "description": "Develop augmented and virtual reality applications for immersive experiences.",
+      "key_skills": "Unity, Unreal Engine, ARCore, ARKit, 3D modeling, C#",
+      "fresher_salary_usd": "$60,000 - $80,000",
+      "professional_salary_usd": "$100,000 - $170,000",
+      "career_growth": "Excellent - Cutting-edge technology with growing applications.",
+      "education_details": "Bachelor's in Computer Science, Engineering, or related field."
+    },
+    {
+      "job_title": "IoT Engineer",
+      "description": "Design and implement Internet of Things solutions for various industries.",
+      "key_skills": "Embedded systems, sensors, wireless protocols, cloud computing",
+      "fresher_salary_usd": "$55,000 - $75,000",
+      "professional_salary_usd": "$90,000 - $145,000",
+      "career_growth": "Excellent - Growing demand for smart devices and automation.",
+      "education_details": "Bachelor's in Electronics, Computer Engineering, or related field."
+    },
+    {
+      "job_title": "Robotics Engineer",
+      "description": "Design and develop robots for various applications.",
+      "key_skills": "Robotics systems, AI, CAD, sensor technologies, control systems",
+      "fresher_salary_usd": "$60,000 - $80,000",
+      "professional_salary_usd": "$100,000 - $160,000",
+      "career_growth": "Good - Expanding use in manufacturing, healthcare, and more.",
+      "education_details": "Bachelor's in Robotics, Mechanical Engineering, or related field."
+    },
+   
+        {
+ 
+  "job_title": "Hardware Engineer",
+  "description": "Design and develop computer hardware components and systems",
+  "key_skills": "Circuit design, electronics, CAD tools, testing, physics",
+  "fresher_salary_usd": "$60,000 - $80,000",
+  "professional_salary_usd": "$90,000 - $155,000",
+  "career_growth": "Moderate - Specialized but essential role",
+  "education_details": "Bachelor's in Electrical or Computer Engineering"
+},
+{
+
+  "job_title": "Embedded Systems Engineer",
+  "description": "Develop software for embedded devices and microcontrollers",
+  "key_skills": "C/C++, microcontrollers, real-time systems, hardware interfaces",
+  "fresher_salary_usd": "$55,000 - $75,000",
+  "professional_salary_usd": "$85,000 - $145,000",
+  "career_growth": "Good - IoT and connected devices driving demand",
+  "education_details": "Bachelor's in ECE or Embedded Systems"
+},
+{
+  
+  "job_title": "Technical Writer",
+  "description": "Create documentation, guides, and content for technical products",
+  "key_skills": "Writing skills,Technical understanding, Documentation tools,UX writing",
+  "fresher_salary_usd": "$40,000 - $55,000",
+  "professional_salary_usd": "$65,000 - $105,000",
+  "career_growth": "Good - Documentation increasingly important",
+  "education_details": "Bachelor’s in English, Technical Communication, or CS"
+}
+
+  ]
+}
